@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RGBtoHDMI")(type "KiCad")(uri "${KIPRJMOD}/rgb-to-hdmi.kicad_sym")(options "")(descr ""))
+)
